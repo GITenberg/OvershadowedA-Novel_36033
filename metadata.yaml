@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6067
     wikipedia: http://en.wikipedia.org/wiki/Sutton_E._Griggs
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36033#OvershadowedA-Novel
 gutenberg_issued: '2011-05-05'
 gutenberg_type: Text
 identifiers:
